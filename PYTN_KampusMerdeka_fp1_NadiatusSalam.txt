@@ -1,0 +1,8 @@
+Nama		: Nadiatus Salam
+No. Peserta	: PYTN-KS19-014
+
+Python for Data Science by Hacktiv8
+Final Projects 1 - Linier Regression for Uber and Lyft Dataset
+
+Repository Github : https://github.com/nasamarca/PYTN_KampusMerdeka_fp1_NadiatusSalam.git
+
